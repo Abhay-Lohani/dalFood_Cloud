@@ -123,6 +123,3 @@ CI/CD pipeline using AWS CodePipeline
 Frontend deployment using AWS Amplify
 
 Multi-zone high-availability setup for production-grade resilience
-
-Special Thanks 🎓
-Special thanks to Dr. Gabriel Spadon for his incredible guidance, mentorship, and support throughout the project journey!
